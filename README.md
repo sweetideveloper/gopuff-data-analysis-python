@@ -1,4 +1,4 @@
-# 🚀 GoPuff Market Analysis Dashboard
+# 🚀 Gopuff Data Analysis Using Python
 
 <p align="center">
   <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="180">
@@ -239,7 +239,7 @@ gopuff-market-analysis-dashboard/
 ```bash
 git clone https://github.com/yourusername/gopuff-market-analysis-dashboard.git
 
-cd gopuff-market-analysis-dashboard
+cd gopuff-data-analysis-python
 
 jupyter notebook
 ```
